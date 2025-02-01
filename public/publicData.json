@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Real Estate Platform",
+    "image": "./eliteEstate.avif",
+    "liveLink": "https://assignment12-568f7.web.app/",
+    "githubRepo": "https://github.com/IsmailHossen87/A12-EliteEstate",
+    "details": "A user-friendly platform where you can explore and purchase flats or land effortlessly."
+  },
+  {
+    "name": "Restaurant Management",
+    "image": "./istockphoto-1409729992-612x612.webp",
+    "liveLink": "https://restaurent-management-61037.web.app/",
+    "githubRepo": "https://github.com/IsmailHossen87/A-11-Restaurant-Management",
+    "details": "An intuitive restaurant management system where users can browse and order food seamlessly."
+  },
+  {
+    "name": "Sports Equipment",
+    "image": "./sportsEquipments.webp",
+    "liveLink": "https://assingment-10-6af28.web.app/",
+    "githubRepo": "https://github.com/IsmailHossen87/A10-Sports-Equipments",
+    "details": "A responsive e-commerce platform featuring a shopping cart for sports gear."
+  },
+  {
+    "name": "Dream Cricket Hub",
+    "image": "./cricket.avif",
+    "liveLink": "https://powerful-action1121.surge.sh/",
+    "githubRepo": "https://github.com/IsmailHossen87/A7-Gadget-Player",
+    "details": "A full-stack blog platform designed for cricket enthusiasts, featuring authentication and CRUD functionalities."
+  },
+  {
+    "name": "Personal Portfolio",
+    "image": "./istockphoto-1409729992-612x612.webp",
+    "liveLink": "https://restaurent-management-61037.web.app/",
+    "githubRepo": "https://github.com/IsmailHossen87/A-11-Restaurant-Management",
+    "details": "A sleek personal portfolio showcasing my web development projects and skills."
+  },
+  {
+    "name": "Real Estate Platform",
+    "image": "./eliteEstate.avif",
+    "liveLink": "https://assignment12-568f7.web.app/",
+    "githubRepo": "https://github.com/IsmailHossen87/A12-EliteEstate",
+    "details": "A user-friendly platform where you can explore and purchase flats or land effortlessly."
+  }
+]
