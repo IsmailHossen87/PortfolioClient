@@ -16,7 +16,7 @@ const Contact = () => {
       message: form.current.message.value,
     }
     try{
-      const response = await axios.post("http://localhost:5000/send-email", formData, {
+      const response = await axios.post("https://server-cyan-one.vercel.app/send-email", formData, {
       headers: { "Content-Type": "application/json" },
     })
     if (response.data.success) {
