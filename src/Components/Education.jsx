@@ -1,4 +1,3 @@
-import React from "react";
 import { Slide, Fade } from "react-awesome-reveal";
 import { FaGraduationCap } from "react-icons/fa";
 

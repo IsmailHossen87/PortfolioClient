@@ -74,7 +74,7 @@ const Contact = () => {
                     type="email"
                     id="email"
                     className="w-full p-3 bg-gray-700 border border-gray-600 rounded-lg text-yellow-200 focus:outline-none focus:ring focus:ring-yellow-400"
-                    placeholder="Your Email"
+                    placeholder="Your valid Email"
                     name="user_email"
                     required
                   />
