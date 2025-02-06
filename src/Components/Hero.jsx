@@ -46,7 +46,7 @@ const Hero = () => {
             </h1>
           </Slide>
 
-          <Slide direction="right">
+          <Slide direction="down">
             <p className="text-xl sm:text-2xl font-semibold text-yellow-300 text-center md:text-left">
               Web Developer
             </p>

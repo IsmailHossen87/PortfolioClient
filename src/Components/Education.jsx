@@ -9,13 +9,14 @@ const Education = () => {
       degree: "SSC",
       year: " Passing Year 2021",
       field: "Science",
-      marks: "GPA: 4.57",
+      institution:'Jhagrarchar Adorsho High School',
+      marks: "GPA: 4.67",
     },
     {
       id: 2,
       degree: "Diploma in Computer Science",
       year: "2025 (Expected)",
-      field: "Computer Science and Technology",
+      field: "Computer Science & Technology",
       institution: "Sylhet Polytechnic Institute",
       marks: "CGPA: 3.33",
     },
@@ -30,7 +31,7 @@ const Education = () => {
   ];
 
   return (
-    <div className="bg-gray-900 text-yellow-200 py-16 px-6 md:px-20">
+    <div className="bg-gray-900 text-yellow-200 py-16 px-6 ">
       <div className="max-w-6xl mx-auto">
         {/* Header Section */}
         <Slide direction="down">
@@ -40,7 +41,7 @@ const Education = () => {
         </Slide>
 
         {/* Education Cards */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
           {educationData.map((edu) => (
             <Fade key={edu.id}>
               <div className="bg-gray-800 h-[320px] p-6 rounded-lg py-4 shadow-lg transform hover:scale-105 transition duration-300">
@@ -49,14 +50,14 @@ const Education = () => {
                   {edu.degree}
                 </h3>
                <div className="flex flex-col items-start mt-3">
-               <p className="text-gray-300 text-base text-center">
-                  <strong>Year:</strong> {edu.year}
+                <p className="text-gray-300 text-base text-center">
+                  <strong>Institution:</strong> {edu.institution}
                 </p>
                 <p className="text-gray-300 text-base text-center">
                   <strong>Field:</strong> {edu.field}
                 </p>
                 <p className="text-gray-300 text-base text-center">
-                  <strong>Institution:</strong> {edu.institution}
+                  <strong>Year:</strong> {edu.year}
                 </p>
                 <p className="text-gray-300 text-base text-center">
                   <strong>Marks:</strong> {edu.marks}
