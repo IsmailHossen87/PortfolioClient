@@ -17,11 +17,9 @@ const SingleProject = ({ project }) => {
             referrerPolicy="no-referrer"
             src={image}
             alt={name}
-
             className="w-full h-full object-cover"
           />
         </div>
-
         {/* Content */}
         <div className="mt-5 flex flex-col flex-grow text-center md:text-left">
           <h3 className="text-xl md:text-2xl font-semibold text-yellow-300 mb-3">
