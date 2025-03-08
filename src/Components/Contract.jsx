@@ -49,7 +49,7 @@ const Contact = () => {
       <div className="max-w-6xl mx-auto text-center">
         <h2 className="text-4xl md:text-5xl font-bold mb-10">
           <span className="text-yellow-400">Contact </span>
-          <span className="text-gray-300">Me ☺🙂</span>
+          <span className="text-gray-300">Me🙂</span>
         </h2>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
