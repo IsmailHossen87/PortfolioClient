@@ -22,7 +22,7 @@ const Contact = () => {
       const response = await axios.post("https://protfo-lio.vercel.app/send-email", formData, {
         headers: { "Content-Type": "application/json" },
       });
-
+     
       if (response.data.success) {
         Swal.fire({
           title: "Email sent successfully!",
