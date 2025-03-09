@@ -19,10 +19,9 @@ const Contact = () => {
       message: form.current.message.value,
     };
     try {
-      const response = await axios.post("https://portfolio-server-b3vhx5qgl-ismail-hossens-projects-316c479c.vercel.app/send-email", formData, {
+      const response = await axios.post("https://portfolio-server-pi-one.vercel.app/send-email", formData, {
         headers: { "Content-Type": "application/json" },
       });
-     
       if (response.data.success) {
         Swal.fire({
           title: "Email sent successfully!",
