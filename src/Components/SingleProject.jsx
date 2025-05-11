@@ -15,7 +15,7 @@ const SingleProject = ({ project }) => {
       <div
         className="bg-gray-800 border border-gray-700 p-6 md:p-3 gap-5 rounded-xl shadow-lg 
                    transform md:hover:scale-105 transition duration-300 
-                   max-w-md mx-auto md:max-w-xl lg:max-w-2xl h-[520px] flex flex-col"
+                   max-w-md mx-auto md:max-w-xl lg:max-w-2xl md:h-[520px] h-[450px] flex flex-col"
       >
         {/* Project Images in Marquee */}
         <div className="relative w-full rounded-lg overflow-hidden">
