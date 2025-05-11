@@ -1,14 +1,35 @@
 [
   {
+    "name": "Ai Course Management -Team project",
+    "image": "https://i.ibb.co.com/Cx8H9ZK/edvio.jpg",
+    "image1":"https://i.ibb.co.com/TDhFLmX1/edvio-Sign.jpg",
+    "image2":"https://i.ibb.co.com/mCd21qqx/feature.jpg",
+    "image3":"https://i.ibb.co.com/qLwHfn2g/available.jpg",
+    "liveLink": "https://jade-horse-d72d87.netlify.app/",
+    "githubRepo": "https://github.com/IsmailHossen87/web-squad-edvio/tree/ismail",
+    "details": "Edvio–AI-powered course management system with secure login, role-based access,real-time event features."
+  },
+  {
     "name": "Real Estate Platform",
-    "image": "./eliteEstate.avif",
+    "image": "https://i.ibb.co.com/FqqXc5zD/home-Elite.jpg",
+    "image1":"https://i.ibb.co.com/QvWjSy6R/manage.jpg",
+    "image2":"https://i.ibb.co.com/WN0PsgMM/manage-Role.jpg",
+    "image3":"https://i.ibb.co.com/bj6xXC5N/review.jpg",
+    "image4": "https://i.ibb.co.com/8D6gW7vk/all-Property.jpg"  ,
+    "image5":  "https://i.ibb.co.com/hRKnLB9p/myadded.jpg" ,
+    "image6": "https://i.ibb.co.com/n8MkBpsY/add-Property.jpg"  ,
     "liveLink": "https://assignment12-568f7.web.app/",
     "githubRepo": "https://github.com/IsmailHossen87/A12-EliteEstate",
     "details": "A user-friendly platform where you can explore and purchase flats or land effortlessly."
   },
   {
     "name": "Restaurant Management",
-    "image": "./istockphoto-1409729992-612x612.webp",
+    "image": "./istockphoto-1409729992-612x612.webp", 
+    "image1": "https://i.ibb.co.com/7tsJn8JN/Home.jpg", 
+    "image2":"https://i.ibb.co.com/0jDhCJVT/myorder.jpg", 
+    "image3":"https://i.ibb.co.com/BSn28n2/gallery.jpg", 
+    "image4":"https://i.ibb.co.com/Q7tWwMnx/allfoods.jpg", 
+    "image5":"https://i.ibb.co.com/TBdL9TNM/addFood.jpg", 
     "liveLink": "https://restaurent-management-61037.web.app/",
     "githubRepo": "https://github.com/IsmailHossen87/A-11-Restaurant-Management",
     "details": "An intuitive restaurant management system where users can browse and order food seamlessly."
@@ -16,6 +37,10 @@
   {
     "name": "Sports Equipment",
     "image": "./sportsEquipments.webp",
+     "image1": "https://i.ibb.co.com/j929RhsY/sprthOME.jpg", 
+    "image2":"https://i.ibb.co.com/zV8T0XFj/ALLsprt.jpg", 
+    "image3":"https://i.ibb.co.com/cc2f0Wkm/addsport.jpg", 
+    "image4":"https://i.ibb.co.com/TBdL9TNM/addFood.jpg", 
     "liveLink": "https://assingment-10-6af28.web.app/",
     "githubRepo": "https://github.com/IsmailHossen87/A10-Sports-Equipments",
     "details": "A responsive e-commerce platform featuring a shopping cart for sports gear."
@@ -23,22 +48,10 @@
   {
     "name": "Dream Cricket Hub",
     "image": "./cricket.avif",
+    "image1": "https://i.ibb.co.com/Myr9SYGG/cricket.jpg",
+    "image2":"https://i.ibb.co.com/9mvX6qK6/choice-Player.jpg",
     "liveLink": "https://powerful-action1121.surge.sh/",
     "githubRepo": "https://github.com/IsmailHossen87/A7-Gadget-Player",
     "details": "A full-stack blog platform designed for cricket enthusiasts, featuring authentication and CRUD functionalities."
-  },
-  {
-    "name": "Restaurant Management",
-    "image": "./istockphoto-1409729992-612x612.webp",
-    "liveLink": "https://restaurent-management-61037.web.app/",
-    "githubRepo": "https://github.com/IsmailHossen87/A-11-Restaurant-Management",
-    "details": "A sleek personal portfolio showcasing my web development projects and skills."
-  },
-  {
-    "name": "Real Estate Platform",
-    "image": "./eliteEstate.avif",
-    "liveLink": "https://assignment12-568f7.web.app/",
-    "githubRepo": "https://github.com/IsmailHossen87/A12-EliteEstate",
-    "details": "A user-friendly platform where you can explore and purchase flats or land effortlessly."
   }
 ]

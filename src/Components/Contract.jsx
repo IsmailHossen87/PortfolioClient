@@ -12,7 +12,7 @@ const Contact = () => {
 
   const sendEmail = async (e) => {
     e.preventDefault();
-    setLoading(true); 
+    setLoading(true);                                                                                                                                                                                                                                                                                                                                                            
     const formData = {
       user_name: form.current.user_name.value,
       user_email: form.current.user_email.value,
