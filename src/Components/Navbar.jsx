@@ -46,7 +46,7 @@ const Navbar = () => {
         {/* Right Section */}
         <div className="flex items-center space-x-4">
           <a
-            href="https://drive.google.com/file/d/159P_bSMlrX2w4eJWZ1_muovAcpK6CK2A/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1YnRaDL-xf3n0hIRn1shgJ7d7OR756oSq/view?usp=drive_link"
             target="_blank"
             download
             className="hidden md:inline-flex items-center px-5 py-2 bg-gradient-to-r from-yellow-500 to-yellow-600 text-white text-lg font-medium rounded-full shadow hover:from-yellow-600 hover:to-yellow-700 transition-all duration-300"
